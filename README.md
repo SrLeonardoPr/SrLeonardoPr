@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="https://boxicons.com/css/boxicons.min.css">
-
+## Hola!!
 # 💫 Sobre mi:
 ¡Hola! Soy Leonardo , un estudiante de ingeniería física y apasionado analista de datos. 
 <box-icon type='solid' name='cat'></box-icon> 
