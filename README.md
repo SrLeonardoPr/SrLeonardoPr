@@ -2,7 +2,9 @@
 
 
 # 💫 About Me:
-¡Hola! Soy Leonardo , un estudiante de ingeniería física y apasionado analista de datos. <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAepJREFUaEPtmA1qwzAMhdWTbTvZtpNtN9t4UIGrStFzrNot2FAo2JH0yfpLLvLi6/Li9ssGWH2DFTfwLiKfV5BvEfk1UF8igl/FupNVAfAjIoDAgvEfxtI/EQHYKASeh6NubK4AgIHtsjJ1fwRCjYeeUoBWsEJEANg/A2F1lAK04RMZaG+oByJ10NkQ0sTV2Ffve8ZZAPYmPONPhVBkrK0qkWc9gJGKRIcQa3hUfdTIJQAwHvHNLK90ts8tAciUarPyGpeFzmQxTgrLtJfEXvKoobbLMsotAGRAHhYaky0E2X6aA0xpZAyPcgCdWh3hhWq2nwJknbXHeJy18jIDs/3lAFmIZPspwKNDqPcG7fkUwIvLkSS2Dnk4ABRUKNVYrpAVjirRLNTTyCKPaoOrkNUNgAdGFbcduuoW7hzOTKMAaV8be2JYw2jUGeEEywCMDmWqIxqPGYeE7xAzANpQOgNx+AI0A8BePwuhDe1w/poF4MWwfqV4M1819Cw1OM4ECEshkwTRmRUALQj+w9PtdKpjtv2+5DKsBMgcT9lGHbpqqn6z2gDwwL6BAydEIXf06bENK8q51KEkByIZGyDL8qoc2DcQeJoKb+rQzoFbF+8q1F1rdwg9SQgxZXn6mZ4qNN04RuEGYLz0yDP/+56SMSsP6fQAAAAASUVORK5CYII="/>
+¡Hola! Soy Leonardo , un estudiante de ingeniería física y apasionado analista de datos. <box-icon type='solid' name='cat'></box-icon>
+
+
 
 
 # 💻 Tech Stack:
