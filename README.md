@@ -1,10 +1,9 @@
-### Hi there 👋
 
 
-# 💫 About Me:
+# 💫 Sobre mi:
 ¡Hola! Soy Leonardo , un estudiante de ingeniería física y apasionado analista de datos. 
 <box-icon type='solid' name='cat'></box-icon> 
-
+<box-icon name='cat' type='solid' animation='tada' ></box-icon>
 
 
 
