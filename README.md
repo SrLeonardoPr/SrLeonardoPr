@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-¡Hola! Soy Leonardo , un estudiante de ingeniería física y apasionado analista de datos. <box-icon type='solid' name='cat'></box-icon>
+¡Hola! Soy Leonardo , un estudiante de ingeniería física y apasionado analista de datos. 
+<box-icon type='solid' name='cat'></box-icon> 
 
 
 
@@ -17,7 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SrLeonardoPr&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **SrLeonardoPr/SrLeonardoPr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
