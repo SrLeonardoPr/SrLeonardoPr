@@ -1,31 +1,37 @@
-## Hola!!
-# 💫 Sobre mi:
-¡Hola! Soy Leonardo , un estudiante de ingeniería física y apasionado analista de datos. 
-<box-icon type='solid' name='cat'></box-icon> 
+# Hi, I'm Leonardo Piñeres
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SrLeonardoPr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SrLeonardoPr&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrLeonardoPr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Junior Software Developer · Engineering Physics Student**
 
----
-[![](https://visitcount.itsvg.in/api?id=SrLeonardoPr&icon=5&color=1)](https://visitcount.itsvg.in)
+I study Engineering Physics at Universidad Nacional de Colombia and have training in Data Science. I build web applications, Shopify stores, and interactive experiences through independent projects and client work.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+My interests connect software development, data analysis, and scientific applications. I am based in Colombia and open to junior software development opportunities.
 
-<!--
-**SrLeonardoPr/SrLeonardoPr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Selected work
 
-Here are some ideas to get you started:
+| Project | Focus | Status |
+| --- | --- | --- |
+| **LUMO App** | React application for sales, payments, expenses, customers, and accounts receivable. Includes Supabase integration, dashboards, CSV exports, and PDF generation. | MVP in development · Private repository |
+| **Sobremesa** | Browser-based 3D café management game built with JavaScript and Three.js, set in a stylized Manizales, Colombia. | In development · Private repository |
+| **NanoExplora Colombia** | Interactive web experiences for exploring nanotechnology and scientific concepts. | In development |
+| **Bonara Beauty** | Client Shopify store setup, content organization, and adaptation of the shopping experience to the brand. | Completed client project · 2026 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+
+- **Web development:** JavaScript, React, HTML, CSS, Three.js
+- **Data analysis:** Python, SQL, pandas, NumPy, Plotly
+- **Machine learning training:** scikit-learn, data preparation, model training and evaluation
+- **Platforms and workflow:** Shopify, Supabase, Git, GitHub
+
+## Learning and background
+
+- Engineering Physics student at **Universidad Nacional de Colombia**
+- Data Science bootcamp at **ADA School**, in collaboration with **PROtalento**
+- Project-based machine learning training at **Centro de Desarrollo Tecnológico BIOS**, focused on medical image processing
+
+My public repositories include coursework and learning projects. The projects listed above have different publication arrangements; private source code is not available through this profile.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/leonardopineres/)
+
+**Languages:** Spanish (native) · English (B2)
