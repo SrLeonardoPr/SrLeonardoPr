@@ -15,6 +15,13 @@ My interests connect software development, data analysis, and scientific applica
 | **NanoExplora Colombia** | Interactive web experiences for exploring nanotechnology and scientific concepts. | In development |
 | **Bonara Beauty** | Client Shopify store setup, content organization, and adaptation of the shopping experience to the brand. | Completed client project · 2026 |
 
+## Public code to explore
+
+- [Python & SQL Learning Projects](https://github.com/SrLeonardoPr/Proyecto_Integrador): terminal maze game, relational database exercises, and data processing notebooks. The README explains setup and current limitations.
+- [Small Python Projects](https://github.com/SrLeonardoPr/Proyectos-Pequenos): learning exercises including a command-line calculator and numeral-system converter.
+
+These are educational repositories. LUMO and Sobremesa remain private and are summarized above.
+
 ## Tools I use
 
 - **Web development:** JavaScript, React, HTML, CSS, Three.js
