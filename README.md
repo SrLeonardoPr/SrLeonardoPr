@@ -13,14 +13,7 @@ My interests connect software development, data analysis, and scientific applica
 | **LUMO App** | React application for sales, payments, expenses, customers, and accounts receivable. Includes Supabase integration, dashboards, CSV exports, and PDF generation. | MVP in development · Private repository |
 | **Sobremesa** | Browser-based 3D café management game built with JavaScript and Three.js, set in a stylized Manizales, Colombia. | In development · Private repository |
 | **NanoExplora Colombia** | Interactive web experiences for exploring nanotechnology and scientific concepts. | In development |
-| **Bonara Beauty** | Client Shopify store setup, content organization, and adaptation of the shopping experience to the brand. | Completed client project · 2026 |
-
-## Public code to explore
-
-- [Python & SQL Learning Projects](https://github.com/SrLeonardoPr/Proyecto_Integrador): terminal maze game, relational database exercises, and data processing notebooks. The README explains setup and current limitations.
-- [Small Python Projects](https://github.com/SrLeonardoPr/Proyectos-Pequenos): learning exercises including a command-line calculator and numeral-system converter.
-
-These are educational repositories. LUMO and Sobremesa remain private and are summarized above.
+| **Bonara Beauty** | Shopify store implementation completed in August 2026, followed by ongoing store management as an associated partner. | Ongoing client relationship |
 
 ## Tools I use
 
@@ -35,7 +28,7 @@ These are educational repositories. LUMO and Sobremesa remain private and are su
 - Data Science bootcamp at **ADA School**, in collaboration with **PROtalento**
 - Project-based machine learning training at **Centro de Desarrollo Tecnológico BIOS**, focused on medical image processing
 
-My public repositories include coursework and learning projects. The projects listed above have different publication arrangements; private source code is not available through this profile.
+LUMO App and Sobremesa are my main software projects. Their source repositories are private; the descriptions above summarize their current scope. Public demonstrations are not yet included.
 
 ## Connect
 
